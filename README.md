@@ -7,7 +7,7 @@ What factors influence repeat buying?
 How much more revenue does a repeat buyer versus a single buyer on average?
 How often do repeat buyers buy?
 
-## Data
+## Exploratory Data Analysis
 
 Explain what dataset was used, and why
 What specific data columns were chosen to answer the objectives
